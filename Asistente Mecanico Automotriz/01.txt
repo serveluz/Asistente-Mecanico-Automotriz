@@ -1,0 +1,25 @@
+Agregar Clientes, vehículos y todos los detalles que sean relevantes para ellos
+Gestion de Vehículos, Crear Inspecciones detalladas con listas de verificación, informes
+de daños
+Gestión de Inventario, Administre sus piezas, neumaticos, activos comerciales y todos los demas
+elementos importantes.
+
+Tarjetas de trabajo, realice un seguimiento del progreso laboral, inice y detenga los relojes de 
+trabajo, apruebe y deniegue los servicios
+Paperalera de reciclaje
+Restaurar Facturas eliminidas, clientes y tarjetas de trabajo de un plazo de 7 dias
+Estimaciones, crear presupuestos profesionales para sus clientes de reparacion de automoviles
+Facturas. Generar facturas profesionales para los clientes de su tienda de automoviles
+Inspecciones, Genere informes de daños y adjunte imagenes a sus inspecciones de automoviles 
+Nombramientos, que los clientes reserven los servicios en linea desde la comodidad de su hogar
+Recordatorios de servicio, Gane clientes de devolucion recordandoles cuando se debe presetar servicio
+Contabilidad Crear ordenes de compra, realizar un seguimiento de sus gastos y supervisen sus ganancias 
+Escaner OBD Lea los codigos de error del motor con los parametros del coche del monitor ARI en vivo
+Informes y Estadisticas, Informes para el rendimiento de su negocio y exportar los datos
+Pagos, Nunca pierdas un pago, vigila tu preoceso de facturacion de facturas
+Marketing, llegue a sus clientes principales y al negocio del mercado en diferentes canales
+Vendedores, administrar proveedores, socios y pedidos para una experiencia de reparación optimizada
+Seguimiento del tiempo, Monitorear y etiquetar la actividad de varios empleados
+
+
+Contraseña para supabase:          k8eqJZrSJ5Eaey7s
